@@ -16,5 +16,6 @@ SaveBase::SaveBase()
 SaveBase::~SaveBase()
 {
 	// TODO Auto-generated destructor stub
+	cout << "test git" << endl; 
 }
 
